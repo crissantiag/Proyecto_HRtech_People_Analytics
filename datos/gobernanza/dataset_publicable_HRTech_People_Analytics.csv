@@ -1,0 +1,11 @@
+empleado_token,departamento,rango_edad,categoria_desempeño,rango_salarial,estado_empleado,categoria_antiguedad,satisfaccion,horas_extra
+37fad88dd199,Ventas,25-29,Bueno,<=600,Activo,Junior,4,5
+25c2d136019a,IT,30-34,Excelente,801-900,Activo,Senior,5,3
+b38e2409821d,Finanzas,25-29,Regular,601-700,Inactivo,Junior,2,12
+4507262c47f0,RRHH,35-39,Bueno,701-800,Activo,Senior,4,4
+f0fa22a9cb20,Marketing,25-29,Regular,601-700,Activo,Junior,3,8
+d61efe0e5cfe,IT,25-29,Excelente,901+,Activo,Junior,5,2
+84994585320c,Ventas,40-44,Bajo,<=600,Inactivo,Senior,2,14
+d2a49211fa37,Finanzas,30-34,Bueno,701-800,Activo,Senior,4,5
+727cfecb2ebf,RRHH,25-29,Excelente,701-800,Activo,Junior,5,3
+b4a7e0099a0b,Marketing,35-39,Regular,601-700,Inactivo,Senior,3,9
