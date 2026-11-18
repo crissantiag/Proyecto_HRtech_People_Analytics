@@ -1,0 +1,206 @@
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Informe Gerencial - HRTech People Analytics</title>
+    <style>
+        @page { size: A4; margin: 2cm; }
+        :root {
+            --primary: #1e3a8a;
+            --secondary: #0284c7;
+            --accent: #f59e0b;
+            --bg-light: #f8fafc;
+            --text-main: #1e293b;
+            --border-color: #e2e8f0;
+        }
+        body { font-family: 'Segoe UI', Arial, sans-serif; margin: 0; color: var(--text-main); line-height: 1.5; background-color: #ffffff; font-size: 13px; }
+
+        /* Portada Ejecutiva */
+        .portada { text-align: center; margin-bottom: 20px; padding: 20px; background: linear-gradient(135deg, #f0fdf4 0%, #eff6ff 100%); border-radius: 12px; border: 1px solid var(--border-color); }
+        .portada h1 { border: none; font-size: 26px; color: var(--primary); margin: 0 0 6px 0; font-weight: 700; }
+        .portada h2 { border: none; color: var(--secondary); margin: 0; font-size: 17px; font-weight: 500; }
+        .portada-meta { margin-top: 12px; font-size: 12px; color: #64748b; }
+        .portada-meta span { margin: 0 8px; }
+
+        /* Encabezados de sección */
+        h2 { color: var(--primary); margin-top: 28px; border-bottom: 2px solid var(--primary); padding-bottom: 5px; font-size: 18px; }
+        h3 { color: #334155; margin-top: 18px; font-size: 14px; }
+
+        .hallazgo, .kpi-card, table, .bloque-visual { page-break-inside: avoid; }
+        .salto { page-break-after: always; }
+
+        /* KPIs Grid */
+        .kpi-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; margin: 10px 0; }
+        .kpi-card { background: var(--bg-light); padding: 10px 12px; border-left: 4px solid var(--secondary); border-radius: 6px; }
+        .kpi-valor { font-size: 20px; font-weight: bold; color: var(--primary); }
+        .kpi-label { font-size: 10px; color: #64748b; text-transform: uppercase; letter-spacing: 0.5px; font-weight: 600; }
+
+        /* Resumen ejecutivo */
+        .resumen-bloque { margin: 8px 0; }
+        .resumen-bloque ol, .resumen-bloque ul { margin: 4px 0; padding-left: 22px; }
+        .prioridad { font-weight: bold; }
+
+        /* Bloques especiales */
+        .hallazgo { background: #fffbeb; padding: 12px 20px; border-left: 5px solid var(--accent); margin: 14px 0; border-radius: 8px; }
+        .hallazgo h3 { margin-top: 0; color: #b45309; }
+        .hallazgo p { margin: 4px 0; }
+        .metodologia { background: #f8fafc; padding: 14px; border-radius: 8px; margin: 14px 0; border: 1px solid var(--border-color); }
+
+        /* Tablas */
+        table { border-collapse: collapse; width: 100%; margin: 14px 0; border: 1px solid var(--border-color); }
+        th, td { padding: 7px 8px; text-align: left; font-size: 11px; vertical-align: top; }
+        th { background: var(--primary); color: white; font-weight: 600; text-transform: uppercase; font-size: 10px; }
+        tr:nth-child(even) { background: #f8fafc; }
+
+        /* Imágenes y Pie */
+        img { display: block; max-width: 88%; height: auto; margin: 10px auto; border: 1px solid var(--border-color); border-radius: 8px; }
+        .pie { font-size: 11px; color: #94a3b8; margin-top: 30px; border-top: 1px solid var(--border-color); padding-top: 10px; text-align: center; }
+    </style>
+</head>
+<body>
+
+<div class="portada">
+    <h1>INFORME GERENCIAL DE TALENTO HUMANO</h1>
+    <h2>HRTech People Analytics</h2>
+    <div class="portada-meta">
+        <span><strong>Periodo:</strong> {{ periodo }}</span>
+        <span><strong>Fecha:</strong> {{ fecha_generacion }}</span>
+        <span><strong>Versión:</strong> {{ version }}</span>
+        <span><strong>Equipo:</strong> {{ equipo }}</span>
+    </div>
+</div>
+
+<!-- ============ 1. RESUMEN EJECUTIVO (una sola página) ============ -->
+<div class="salto">
+<h2>1. Resumen Ejecutivo</h2>
+
+<div class="resumen-bloque"><strong>Propósito:</strong> Evaluar el desempeño del talento humano, el clima laboral y la distribución territorial de operaciones de HRTech para orientar decisiones de retención, cargas de trabajo y capacitación.</div>
+<div class="resumen-bloque"><strong>Periodo analizado:</strong> {{ periodo }}</div>
+
+<div class="resumen-bloque"><strong>KPIs principales:</strong></div>
+<div class="kpi-grid">
+    <div class="kpi-card"><div class="kpi-label">Total Colaboradores</div><div class="kpi-valor">{{ kpis.total_colaboradores }}</div></div>
+    <div class="kpi-card"><div class="kpi-label">Promedio Desempeño</div><div class="kpi-valor">{{ "%.1f"|format(kpis.promedio_desempeno) }}/100</div></div>
+    <div class="kpi-card"><div class="kpi-label">Satisfacción Laboral</div><div class="kpi-valor">{{ "%.1f"|format(kpis.promedio_satisfaccion) }}/5.0</div></div>
+    <div class="kpi-card"><div class="kpi-label">Total Horas Extra</div><div class="kpi-valor">{{ kpis.total_horas_extra }} hrs</div></div>
+    <div class="kpi-card"><div class="kpi-label">Horas de Capacitación</div><div class="kpi-valor">{{ kpis.total_horas_capacitacion }} hrs</div></div>
+    <div class="kpi-card"><div class="kpi-label">Índice de Retención</div><div class="kpi-valor">{{ "%.1f"|format(kpis.indice_retencion) }}%</div></div>
+</div>
+
+<div class="resumen-bloque"><strong>Hallazgos clave:</strong>
+    <ol>
+    {% for h in hallazgos %}<li>{{ h.titulo }}.</li>{% endfor %}
+    </ol>
+</div>
+
+<div class="resumen-bloque"><strong>Recomendaciones priorizadas:</strong>
+    <ol>
+    {% for r in recomendaciones %}<li><span class="prioridad">[{{ r.prioridad }}]</span> {{ r.accion }}.</li>{% endfor %}
+    </ol>
+</div>
+
+<div class="resumen-bloque"><strong>Riesgos y limitaciones:</strong>
+    <ul>
+    {% for l in limitaciones %}<li>{{ l.limitacion }}.</li>{% endfor %}
+    </ul>
+</div>
+</div>
+
+<!-- ============ 2. CONTEXTO Y METODOLOGÍA ============ -->
+<h2>2. Contexto y Metodología</h2>
+<div class="metodologia">
+    <p><strong>Problema empresarial:</strong> La información de personal estaba dispersa en varios archivos y formatos, lo que impedía analizar el desempeño, la inactividad laboral y la efectividad de las capacitaciones.</p>
+    <p><strong>Usuarios beneficiados:</strong> Gerencia de Recursos Humanos y analistas de datos.</p>
+    <p><strong>Fuentes de datos unificadas:</strong> Registros de empleados (CSV), base transaccional de nómina y desempeño (SQLite) y registros complementarios de formación (JSON).</p>
+    <p><strong>Proceso analítico:</strong> Ingesta → Limpieza y homologación (id de empleado, nombres de departamentos, valores negativos) → Análisis exploratorio → Análisis geoespacial (ArcGIS) → Reportería automatizada (Jinja2 + WeasyPrint).</p>
+    <p><strong>Alcance y filtros:</strong> Periodo {{ periodo }}, personal activo e inactivo, sucursales agrupadas en tres regiones de El Salvador (Centro, Occidente y Oriente).</p>
+</div>
+
+<!-- ============ 3. RESULTADOS GENERALES ============ -->
+<h2>3. Resultados Generales</h2>
+
+<h3>3.1 KPIs principales</h3>
+<table>
+    <thead><tr><th>KPI</th><th>Valor</th><th>Unidad</th><th>Periodo</th></tr></thead>
+    <tbody>
+        <tr><td>Total colaboradores</td><td>{{ kpis.total_colaboradores }}</td><td>Empleados</td><td>{{ periodo }}</td></tr>
+        <tr><td>Promedio de desempeño</td><td>{{ "%.1f"|format(kpis.promedio_desempeno) }}</td><td>Puntos (0-100)</td><td>{{ periodo }}</td></tr>
+        <tr><td>Satisfacción laboral</td><td>{{ "%.1f"|format(kpis.promedio_satisfaccion) }}</td><td>Puntos (1-5)</td><td>{{ periodo }}</td></tr>
+        <tr><td>Total horas extra</td><td>{{ kpis.total_horas_extra }}</td><td>Horas</td><td>{{ periodo }}</td></tr>
+        <tr><td>Horas de capacitación</td><td>{{ kpis.total_horas_capacitacion }}</td><td>Horas</td><td>{{ periodo }}</td></tr>
+    </tbody>
+</table>
+
+{% for v in visuales %}
+<div class="bloque-visual">
+<h3>3.{{ loop.index + 1 }} {{ v.titulo }}</h3>
+{% if v.imagen %}<img src="{{ v.imagen }}" alt="{{ v.titulo }}">{% endif %}
+<p><strong>Lectura:</strong> {{ v.lectura }}</p>
+</div>
+{% endfor %}
+
+<!-- ============ 4. ANÁLISIS GEOESPACIAL ============ -->
+<h2>4. Análisis Geoespacial y Territorial</h2>
+{% if ruta_geoespacial %}<img src="{{ ruta_geoespacial }}" alt="Mapa de sucursales - HRTech">{% endif %}
+{% if ruta_region %}<img src="{{ ruta_region }}" alt="Ventas por región">{% endif %}
+<p><strong>Patrón observado:</strong> {{ lectura_geo }}</p>
+
+<!-- ============ 5. HALLAZGOS ============ -->
+<h2>5. Hallazgos Principales</h2>
+{% for h in hallazgos %}
+<div class="hallazgo">
+    <h3>{{ loop.index }}. {{ h.titulo }}</h3>
+    <p><strong>Evidencia:</strong> {{ h.evidencia }}</p>
+    <p><strong>Interpretación:</strong> {{ h.interpretacion }}</p>
+    <p><strong>Impacto organizacional:</strong> {{ h.impacto }}</p>
+    <p><strong>Decisión sugerida:</strong> {{ h.decision }}</p>
+    <p><em>Limitación asociada: {{ h.limitacion }}</em></p>
+</div>
+{% endfor %}
+
+<!-- ============ 6. RECOMENDACIONES ============ -->
+<h2>6. Matriz de Recomendaciones</h2>
+<table>
+    <thead>
+        <tr><th>#</th><th>Hallazgo</th><th>Acción recomendada</th><th>Prioridad</th><th>Responsable</th><th>Plazo</th><th>KPI de seguimiento</th><th>Riesgo</th></tr>
+    </thead>
+    <tbody>
+        {% for r in recomendaciones %}
+        <tr>
+            <td>{{ loop.index }}</td>
+            <td>{{ r.hallazgo }}</td>
+            <td>{{ r.accion }}</td>
+            <td><strong>{{ r.prioridad }}</strong></td>
+            <td>{{ r.responsable }}</td>
+            <td>{{ r.plazo }}</td>
+            <td>{{ r.kpi }}</td>
+            <td>{{ r.riesgo }}</td>
+        </tr>
+        {% endfor %}
+    </tbody>
+</table>
+
+<!-- ============ 7. LIMITACIONES ============ -->
+<h2>7. Limitaciones</h2>
+<table>
+    <thead><tr><th>Limitación</th><th>Impacto</th><th>Mitigación</th></tr></thead>
+    <tbody>
+        {% for l in limitaciones %}
+        <tr><td>{{ l.limitacion }}</td><td>{{ l.impacto }}</td><td>{{ l.mitigacion }}</td></tr>
+        {% endfor %}
+    </tbody>
+</table>
+
+<!-- ============ 8. CONCLUSIONES ============ -->
+<h2>8. Conclusiones</h2>
+<p>El análisis del periodo {{ periodo }} refleja un desempeño general estable en HRTech, con un promedio de {{ "%.1f"|format(kpis.promedio_desempeno) }}/100 y una satisfacción de {{ "%.1f"|format(kpis.promedio_satisfaccion) }}/5.
+La prioridad inmediata es rebalancear las cargas de trabajo en {{ depto_alto_he }}, replicar las buenas prácticas de {{ depto_top_desempeno }} en las áreas con menor desempeño y validar el crecimiento observado en la región Oriente antes de ampliar operaciones.</p>
+
+<div class="pie">
+    <p>Informe automatizado de Talento Humano - HRTech People Analytics</p>
+    <p>Proyecto Integrador - Ingeniería en Desarrollo de Software - Guía Práctica N.º 7</p>
+</div>
+
+</body>
+</html>
