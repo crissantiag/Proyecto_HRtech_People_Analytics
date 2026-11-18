@@ -1,0 +1,52 @@
+[
+    {
+        "id_empleado": 1,
+        "satisfaccion": 4,
+        "horas_extra": 5
+    },
+    {
+        "id_empleado": 2,
+        "satisfaccion": 5,
+        "horas_extra": 3
+    },
+    {
+        "id_empleado": 3,
+        "satisfaccion": 2,
+        "horas_extra": 12
+    },
+    {
+        "id_empleado": 4,
+        "satisfaccion": 4,
+        "horas_extra": 4
+    },
+    {
+        "id_empleado": 5,
+        "satisfaccion": 3,
+        "horas_extra": 8
+    },
+    {
+        "id_empleado": 6,
+        "satisfaccion": 5,
+        "horas_extra": 2
+    },
+    {
+        "id_empleado": 7,
+        "satisfaccion": 2,
+        "horas_extra": 14
+    },
+    {
+        "id_empleado": 8,
+        "satisfaccion": 4,
+        "horas_extra": 5
+    },
+    {
+        "id_empleado": 9,
+        "satisfaccion": 5,
+        "horas_extra": 3
+    },
+    {
+        "id_empleado": 10,
+        "satisfaccion": 3,
+        "horas_extra": 9
+    }
+]

@@ -1,0 +1,11 @@
+id_empleado,nombre,departamento,edad,desempeño,salario,tiempo_empresa_anios,estado_empleado,salario_anual,id_capacitacion,curso,horas,resultado,horas_capacitacion,satisfaccion,horas_extra
+1,Ana,Ventas,25,85,550,2,Activo,6600,1,Excel avanzado,10,Aprobado,10,4,5
+2,Luis,IT,31,92,900,5,Activo,10800,2,Comunicación efectiva,8,Aprobado,8,5,3
+3,Carlos,Finanzas,28,70,650,1,Inactivo,7800,3,Liderazgo,12,Reprobado,12,2,12
+4,María,RRHH,35,88,750,7,Activo,9000,4,Trabajo en equipo,6,Aprobado,6,4,4
+5,Sofía,Marketing,29,78,700,3,Activo,8400,5,Power BI,10,Aprobado,10,3,8
+6,José,IT,26,95,950,2,Activo,11400,6,Gestión del tiempo,6,Aprobado,6,5,2
+7,Laura,Ventas,40,65,600,10,Inactivo,7200,7,Resolución de conflictos,8,Reprobado,8,2,14
+8,Daniel,Finanzas,33,82,800,6,Activo,9600,8,Inteligencia emocional,8,Aprobado,8,4,5
+9,Paola,RRHH,27,90,720,2,Activo,8640,9,Análisis de datos,12,Aprobado,12,5,3
+10,Miguel,Marketing,38,74,680,8,Inactivo,8160,10,Seguridad informática,10,Aprobado,10,3,9

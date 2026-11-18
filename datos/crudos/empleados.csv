@@ -1,0 +1,11 @@
+id_empleado,nombre,departamento,edad,desempeño,salario,tiempo_empresa_anios,estado_empleado
+1,Ana,Ventas,25,85,550,2,Activo
+2,Luis,IT,31,92,900,5,Activo
+3,Carlos,Finanzas,28,70,650,1,Inactivo
+4,María,RRHH,35,88,750,7,Activo
+5,Sofía,Marketing,29,78,700,3,Activo
+6,José,IT,26,95,950,2,Activo
+7,Laura,Ventas,40,65,600,10,Inactivo
+8,Daniel,Finanzas,33,82,800,6,Activo
+9,Paola,RRHH,27,90,720,2,Activo
+10,Miguel,Marketing,38,74,680,8,Inactivo

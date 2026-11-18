@@ -1,0 +1,21 @@
+municipio,departamento,region,latitud,longitud,ventas_mes,variacion_pct,canal,ticket_promedio
+San Salvador,San Salvador,Centro,13.6929,-89.2182,48500,6.2,Tienda,85.0
+Santa Tecla,La Libertad,Centro,13.6769,-89.2797,41200,4.8,App,78.5
+Soyapango,San Salvador,Centro,13.71,-89.1392,39800,3.1,Tienda,72.0
+Antiguo Cuscatlán,La Libertad,Centro,13.67,-89.25,36400,5.5,Web,92.0
+Mejicanos,San Salvador,Centro,13.74,-89.21,28900,-1.4,Tienda,64.0
+Apopa,San Salvador,Centro,13.8069,-89.1814,24600,-2.7,App,58.5
+Zacatecoluca,La Paz,Centro,13.5058,-88.8697,14200,-3.9,Tienda,52.0
+Cojutepeque,Cuscatlán,Centro,13.7167,-88.9333,11800,-5.2,Web,49.5
+San Vicente,San Vicente,Centro,13.6414,-88.7836,10900,-4.1,Tienda,47.0
+Chalatenango,Chalatenango,Centro,14.0333,-88.9333,8300,-7.5,Web,43.5
+Sensuntepeque,Cabañas,Centro,13.8667,-88.6333,7600,-6.8,Tienda,41.0
+Santa Ana,Santa Ana,Occidente,13.9942,-89.5597,33700,2.9,Tienda,70.0
+Sonsonate,Sonsonate,Occidente,13.7189,-89.7242,22100,1.6,App,61.0
+Chalchuapa,Santa Ana,Occidente,13.9833,-89.6833,13400,0.8,Web,50.0
+Ahuachapán,Ahuachapán,Occidente,13.9214,-89.845,12600,-2.3,Tienda,46.5
+San Miguel,San Miguel,Oriente,13.4833,-88.1833,38500,9.4,App,76.5
+Usulután,Usulután,Oriente,13.35,-88.45,17800,4.2,Tienda,55.0
+La Unión,La Unión,Oriente,13.3369,-87.8439,15200,2.5,Web,53.0
+Santa Rosa de Lima,La Unión,Oriente,13.6244,-87.8922,9400,-3.2,Tienda,44.0
+San Francisco Gotera,Morazán,Oriente,13.6989,-88.1006,8100,-4.6,Tienda,42.0

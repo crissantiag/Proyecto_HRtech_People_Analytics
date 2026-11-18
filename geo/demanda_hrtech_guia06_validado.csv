@@ -1,0 +1,901 @@
+id_evento,municipio,region,latitud,longitud
+1,San Salvador,Centro,13.698994,-89.23631
+2,San Salvador,Centro,13.6721,-89.225763
+3,San Salvador,Centro,13.707909,-89.192215
+4,San Salvador,Centro,13.711711,-89.225325
+5,San Salvador,Centro,13.653879,-89.20345
+6,San Salvador,Centro,13.666856,-89.236872
+7,San Salvador,Centro,13.695457,-89.222309
+8,San Salvador,Centro,13.686575,-89.2372
+9,San Salvador,Centro,13.692564,-89.224981
+10,San Salvador,Centro,13.675839,-89.201394
+11,San Salvador,Centro,13.710488,-89.252746
+12,San Salvador,Centro,13.708456,-89.209512
+13,San Salvador,Centro,13.694221,-89.213445
+14,San Salvador,Centro,13.715445,-89.230083
+15,San Salvador,Centro,13.70225,-89.247121
+16,San Salvador,Centro,13.675714,-89.216757
+17,San Salvador,Centro,13.700275,-89.22879
+18,San Salvador,Centro,13.673722,-89.213546
+19,San Salvador,Centro,13.710469,-89.217763
+20,San Salvador,Centro,13.691901,-89.186164
+21,San Salvador,Centro,13.689203,-89.222987
+22,San Salvador,Centro,13.679281,-89.23867
+23,San Salvador,Centro,13.717351,-89.214614
+24,San Salvador,Centro,13.689809,-89.2138
+25,San Salvador,Centro,13.684333,-89.191016
+26,San Salvador,Centro,13.685857,-89.201498
+27,San Salvador,Centro,13.703546,-89.211063
+28,San Salvador,Centro,13.700209,-89.188934
+29,San Salvador,Centro,13.701155,-89.241975
+30,San Salvador,Centro,13.701516,-89.230995
+31,San Salvador,Centro,13.735733,-89.236732
+32,San Salvador,Centro,13.684772,-89.225996
+33,San Salvador,Centro,13.682655,-89.245734
+34,San Salvador,Centro,13.676625,-89.205497
+35,San Salvador,Centro,13.70522,-89.222644
+36,San Salvador,Centro,13.715479,-89.247616
+37,San Salvador,Centro,13.690621,-89.238512
+38,San Salvador,Centro,13.676097,-89.21193
+39,San Salvador,Centro,13.67641,-89.201437
+40,San Salvador,Centro,13.705912,-89.178265
+41,San Salvador,Centro,13.707765,-89.159923
+42,San Salvador,Centro,13.703763,-89.209912
+43,San Salvador,Centro,13.67959,-89.237991
+44,San Salvador,Centro,13.697543,-89.260841
+45,San Salvador,Centro,13.695234,-89.212846
+46,San Salvador,Centro,13.697274,-89.234459
+47,San Salvador,Centro,13.710329,-89.226507
+48,San Salvador,Centro,13.697372,-89.230442
+49,San Salvador,Centro,13.706478,-89.221016
+50,San Salvador,Centro,13.694252,-89.19688
+51,San Salvador,Centro,13.698682,-89.215059
+52,San Salvador,Centro,13.705526,-89.221373
+53,San Salvador,Centro,13.663757,-89.238913
+54,San Salvador,Centro,13.686507,-89.251694
+55,San Salvador,Centro,13.683493,-89.227926
+56,San Salvador,Centro,13.680122,-89.219276
+57,San Salvador,Centro,13.687397,-89.182841
+58,San Salvador,Centro,13.722799,-89.215595
+59,San Salvador,Centro,13.675583,-89.198545
+60,San Salvador,Centro,13.712266,-89.228186
+61,San Salvador,Centro,13.659243,-89.241899
+62,San Salvador,Centro,13.686202,-89.237502
+63,San Salvador,Centro,13.696155,-89.232705
+64,San Salvador,Centro,13.704624,-89.175631
+65,San Salvador,Centro,13.707125,-89.234628
+66,San Salvador,Centro,13.708767,-89.20143
+67,San Salvador,Centro,13.685925,-89.236259
+68,San Salvador,Centro,13.683653,-89.199569
+69,San Salvador,Centro,13.71006,-89.210501
+70,San Salvador,Centro,13.689074,-89.221333
+71,San Salvador,Centro,13.667386,-89.219015
+72,San Salvador,Centro,13.670234,-89.231296
+73,San Salvador,Centro,13.674511,-89.209279
+74,San Salvador,Centro,13.702843,-89.2273
+75,San Salvador,Centro,13.695749,-89.242712
+76,San Salvador,Centro,13.70671,-89.243759
+77,San Salvador,Centro,13.684355,-89.214748
+78,San Salvador,Centro,13.696071,-89.186618
+79,San Salvador,Centro,13.705412,-89.215
+80,San Salvador,Centro,13.686713,-89.220573
+81,San Salvador,Centro,13.702036,-89.212483
+82,San Salvador,Centro,13.679661,-89.19208
+83,San Salvador,Centro,13.685639,-89.213812
+84,San Salvador,Centro,13.685265,-89.226419
+85,San Salvador,Centro,13.668983,-89.196074
+86,San Salvador,Centro,13.702639,-89.209625
+87,San Salvador,Centro,13.683512,-89.187485
+88,San Salvador,Centro,13.69315,-89.214535
+89,San Salvador,Centro,13.702515,-89.242689
+90,San Salvador,Centro,13.701831,-89.245563
+91,San Salvador,Centro,13.706208,-89.185181
+92,San Salvador,Centro,13.69093,-89.183727
+93,San Salvador,Centro,13.684434,-89.22179
+94,San Salvador,Centro,13.691306,-89.225864
+95,San Salvador,Centro,13.659153,-89.188971
+96,San Salvador,Centro,13.663958,-89.240341
+97,San Salvador,Centro,13.666446,-89.236095
+98,San Salvador,Centro,13.672955,-89.205333
+99,San Salvador,Centro,13.700895,-89.226092
+100,Santa Tecla,Centro,13.676798,-89.261151
+101,Santa Tecla,Centro,13.673631,-89.270612
+102,Santa Tecla,Centro,13.683651,-89.301909
+103,Santa Tecla,Centro,13.70505,-89.28913
+104,Santa Tecla,Centro,13.678712,-89.274426
+105,Santa Tecla,Centro,13.689779,-89.278651
+106,Santa Tecla,Centro,13.635897,-89.285543
+107,Santa Tecla,Centro,13.675926,-89.28177
+108,Santa Tecla,Centro,13.660035,-89.28474
+109,Santa Tecla,Centro,13.652524,-89.276649
+110,Santa Tecla,Centro,13.659337,-89.25027
+111,Santa Tecla,Centro,13.670218,-89.331033
+112,Santa Tecla,Centro,13.695218,-89.284437
+113,Santa Tecla,Centro,13.650372,-89.27617
+114,Santa Tecla,Centro,13.677513,-89.27378
+115,Santa Tecla,Centro,13.667217,-89.287138
+116,Santa Tecla,Centro,13.670347,-89.314834
+117,Santa Tecla,Centro,13.696955,-89.27314
+118,Santa Tecla,Centro,13.687662,-89.245153
+119,Santa Tecla,Centro,13.703648,-89.310377
+120,Santa Tecla,Centro,13.67381,-89.262423
+121,Santa Tecla,Centro,13.662981,-89.286271
+122,Santa Tecla,Centro,13.672423,-89.280926
+123,Santa Tecla,Centro,13.68175,-89.300758
+124,Santa Tecla,Centro,13.680431,-89.286389
+125,Santa Tecla,Centro,13.655212,-89.253699
+126,Santa Tecla,Centro,13.67871,-89.268047
+127,Santa Tecla,Centro,13.681465,-89.245054
+128,Santa Tecla,Centro,13.727249,-89.256152
+129,Santa Tecla,Centro,13.714437,-89.270918
+130,Santa Tecla,Centro,13.659835,-89.244821
+131,Santa Tecla,Centro,13.671152,-89.27092
+132,Santa Tecla,Centro,13.647631,-89.26314
+133,Santa Tecla,Centro,13.665086,-89.285631
+134,Santa Tecla,Centro,13.683212,-89.278369
+135,Santa Tecla,Centro,13.701017,-89.293648
+136,Santa Tecla,Centro,13.662318,-89.259908
+137,Santa Tecla,Centro,13.663817,-89.303266
+138,Santa Tecla,Centro,13.633954,-89.264053
+139,Santa Tecla,Centro,13.673647,-89.283513
+140,Santa Tecla,Centro,13.655652,-89.256275
+141,Santa Tecla,Centro,13.666311,-89.264683
+142,Santa Tecla,Centro,13.659363,-89.243287
+143,Santa Tecla,Centro,13.675015,-89.265085
+144,Santa Tecla,Centro,13.641745,-89.311141
+145,Santa Tecla,Centro,13.647559,-89.281039
+146,Santa Tecla,Centro,13.719485,-89.30314
+147,Santa Tecla,Centro,13.651152,-89.290066
+148,Santa Tecla,Centro,13.654964,-89.249475
+149,Santa Tecla,Centro,13.713638,-89.266949
+150,Santa Tecla,Centro,13.735001,-89.293679
+151,Santa Tecla,Centro,13.653469,-89.299974
+152,Santa Tecla,Centro,13.669535,-89.279044
+153,Santa Tecla,Centro,13.683731,-89.304031
+154,Santa Tecla,Centro,13.711474,-89.293123
+155,Santa Tecla,Centro,13.657163,-89.27346
+156,Santa Tecla,Centro,13.671994,-89.256594
+157,Santa Tecla,Centro,13.692447,-89.267525
+158,Santa Tecla,Centro,13.685595,-89.325526
+159,Santa Tecla,Centro,13.669377,-89.273613
+160,Santa Tecla,Centro,13.674224,-89.278259
+161,Santa Tecla,Centro,13.649402,-89.271422
+162,Santa Tecla,Centro,13.672137,-89.247376
+163,Santa Tecla,Centro,13.671572,-89.320965
+164,Santa Tecla,Centro,13.681543,-89.291522
+165,Santa Tecla,Centro,13.665793,-89.267882
+166,Santa Tecla,Centro,13.686331,-89.311332
+167,Santa Tecla,Centro,13.697154,-89.250181
+168,Santa Tecla,Centro,13.680009,-89.272333
+169,Santa Tecla,Centro,13.683935,-89.262768
+170,Santa Tecla,Centro,13.677963,-89.291119
+171,Santa Tecla,Centro,13.676902,-89.263425
+172,Santa Tecla,Centro,13.662469,-89.258331
+173,Santa Tecla,Centro,13.68323,-89.275042
+174,Santa Tecla,Centro,13.674954,-89.275012
+175,Santa Tecla,Centro,13.718763,-89.274293
+176,Santa Tecla,Centro,13.708367,-89.296967
+177,Santa Tecla,Centro,13.684617,-89.282651
+178,Santa Tecla,Centro,13.661639,-89.28275
+179,Santa Tecla,Centro,13.654652,-89.272032
+180,Santa Tecla,Centro,13.700723,-89.259704
+181,Santa Tecla,Centro,13.682155,-89.300871
+182,Santa Tecla,Centro,13.686503,-89.2822
+183,Santa Tecla,Centro,13.642008,-89.250071
+184,Soyapango,Centro,13.695128,-89.14583
+185,Soyapango,Centro,13.693555,-89.116908
+186,Soyapango,Centro,13.714046,-89.131532
+187,Soyapango,Centro,13.726888,-89.141823
+188,Soyapango,Centro,13.710229,-89.132224
+189,Soyapango,Centro,13.736579,-89.10018
+190,Soyapango,Centro,13.727136,-89.09766
+191,Soyapango,Centro,13.726836,-89.137812
+192,Soyapango,Centro,13.721082,-89.135996
+193,Soyapango,Centro,13.756553,-89.117675
+194,Soyapango,Centro,13.705897,-89.156113
+195,Soyapango,Centro,13.66993,-89.132539
+196,Soyapango,Centro,13.742085,-89.139717
+197,Soyapango,Centro,13.700846,-89.132922
+198,Soyapango,Centro,13.712158,-89.155867
+199,Soyapango,Centro,13.736191,-89.170991
+200,Soyapango,Centro,13.677955,-89.18066
+201,Soyapango,Centro,13.684967,-89.161548
+202,Soyapango,Centro,13.677974,-89.148374
+203,Soyapango,Centro,13.694117,-89.145064
+204,Soyapango,Centro,13.718793,-89.100455
+205,Soyapango,Centro,13.720484,-89.11708
+206,Soyapango,Centro,13.715525,-89.158442
+207,Soyapango,Centro,13.681745,-89.132246
+208,Soyapango,Centro,13.663798,-89.147342
+209,Soyapango,Centro,13.711087,-89.144887
+210,Soyapango,Centro,13.700564,-89.135493
+211,Soyapango,Centro,13.719188,-89.126817
+212,Soyapango,Centro,13.724039,-89.145985
+213,Soyapango,Centro,13.712765,-89.117923
+214,Soyapango,Centro,13.725203,-89.162039
+215,Soyapango,Centro,13.714584,-89.139073
+216,Soyapango,Centro,13.720601,-89.087247
+217,Soyapango,Centro,13.695907,-89.134738
+218,Soyapango,Centro,13.706408,-89.110536
+219,Soyapango,Centro,13.713936,-89.13737
+220,Soyapango,Centro,13.726411,-89.127584
+221,Soyapango,Centro,13.702125,-89.140336
+222,Soyapango,Centro,13.720423,-89.142608
+223,Soyapango,Centro,13.704683,-89.15479
+224,Soyapango,Centro,13.707649,-89.130594
+225,Soyapango,Centro,13.72659,-89.156231
+226,Soyapango,Centro,13.670139,-89.125888
+227,Soyapango,Centro,13.684071,-89.117494
+228,Soyapango,Centro,13.680356,-89.131869
+229,Soyapango,Centro,13.663328,-89.144925
+230,Soyapango,Centro,13.696435,-89.130121
+231,Soyapango,Centro,13.724989,-89.145373
+232,Soyapango,Centro,13.704302,-89.120489
+233,Soyapango,Centro,13.713956,-89.175828
+234,Soyapango,Centro,13.731784,-89.145912
+235,Soyapango,Centro,13.736554,-89.179016
+236,Soyapango,Centro,13.708617,-89.169101
+237,Soyapango,Centro,13.737072,-89.111923
+238,Soyapango,Centro,13.711843,-89.121296
+239,Soyapango,Centro,13.693252,-89.15359
+240,Soyapango,Centro,13.698112,-89.16925
+241,Soyapango,Centro,13.680389,-89.198491
+242,Soyapango,Centro,13.692237,-89.15007
+243,Soyapango,Centro,13.70284,-89.090792
+244,Soyapango,Centro,13.726072,-89.130502
+245,Soyapango,Centro,13.744415,-89.150391
+246,Soyapango,Centro,13.682356,-89.129898
+247,Soyapango,Centro,13.717857,-89.170419
+248,Soyapango,Centro,13.689189,-89.145146
+249,Soyapango,Centro,13.719494,-89.13721
+250,Soyapango,Centro,13.707378,-89.140922
+251,Soyapango,Centro,13.673382,-89.123384
+252,Soyapango,Centro,13.728566,-89.132307
+253,Soyapango,Centro,13.6979,-89.125833
+254,Soyapango,Centro,13.699322,-89.152967
+255,Soyapango,Centro,13.688605,-89.121244
+256,Soyapango,Centro,13.696914,-89.106621
+257,Soyapango,Centro,13.718558,-89.158603
+258,Soyapango,Centro,13.706215,-89.156954
+259,Soyapango,Centro,13.716573,-89.112484
+260,Soyapango,Centro,13.717238,-89.143027
+261,Soyapango,Centro,13.736413,-89.111124
+262,Soyapango,Centro,13.703144,-89.148051
+263,Soyapango,Centro,13.680463,-89.110099
+264,Soyapango,Centro,13.731344,-89.13657
+265,Antiguo Cuscatlán,Centro,13.675165,-89.224511
+266,Antiguo Cuscatlán,Centro,13.701294,-89.262552
+267,Antiguo Cuscatlán,Centro,13.662765,-89.262732
+268,Antiguo Cuscatlán,Centro,13.651178,-89.239177
+269,Antiguo Cuscatlán,Centro,13.661029,-89.234741
+270,Antiguo Cuscatlán,Centro,13.679047,-89.241038
+271,Antiguo Cuscatlán,Centro,13.638685,-89.283712
+272,Antiguo Cuscatlán,Centro,13.682749,-89.239239
+273,Antiguo Cuscatlán,Centro,13.659225,-89.270686
+274,Antiguo Cuscatlán,Centro,13.692956,-89.245294
+275,Antiguo Cuscatlán,Centro,13.622115,-89.278475
+276,Antiguo Cuscatlán,Centro,13.654269,-89.241074
+277,Antiguo Cuscatlán,Centro,13.636271,-89.266132
+278,Antiguo Cuscatlán,Centro,13.653475,-89.275653
+279,Antiguo Cuscatlán,Centro,13.674953,-89.235724
+280,Antiguo Cuscatlán,Centro,13.666415,-89.245167
+281,Antiguo Cuscatlán,Centro,13.664932,-89.26228
+282,Antiguo Cuscatlán,Centro,13.666816,-89.220976
+283,Antiguo Cuscatlán,Centro,13.674068,-89.258813
+284,Antiguo Cuscatlán,Centro,13.649829,-89.249358
+285,Antiguo Cuscatlán,Centro,13.684137,-89.244622
+286,Antiguo Cuscatlán,Centro,13.683253,-89.262393
+287,Antiguo Cuscatlán,Centro,13.677701,-89.240577
+288,Antiguo Cuscatlán,Centro,13.681131,-89.260669
+289,Antiguo Cuscatlán,Centro,13.675928,-89.258233
+290,Antiguo Cuscatlán,Centro,13.710701,-89.222747
+291,Antiguo Cuscatlán,Centro,13.668258,-89.270812
+292,Antiguo Cuscatlán,Centro,13.663858,-89.298256
+293,Antiguo Cuscatlán,Centro,13.654929,-89.217781
+294,Antiguo Cuscatlán,Centro,13.649355,-89.199013
+295,Antiguo Cuscatlán,Centro,13.645111,-89.258105
+296,Antiguo Cuscatlán,Centro,13.652224,-89.288737
+297,Antiguo Cuscatlán,Centro,13.668586,-89.25621
+298,Antiguo Cuscatlán,Centro,13.676686,-89.255724
+299,Antiguo Cuscatlán,Centro,13.671023,-89.253798
+300,Antiguo Cuscatlán,Centro,13.654689,-89.272268
+301,Antiguo Cuscatlán,Centro,13.688004,-89.238409
+302,Antiguo Cuscatlán,Centro,13.684788,-89.23951
+303,Antiguo Cuscatlán,Centro,13.666807,-89.279888
+304,Antiguo Cuscatlán,Centro,13.656942,-89.236016
+305,Antiguo Cuscatlán,Centro,13.680969,-89.208946
+306,Antiguo Cuscatlán,Centro,13.673759,-89.246561
+307,Antiguo Cuscatlán,Centro,13.641037,-89.256747
+308,Antiguo Cuscatlán,Centro,13.66864,-89.25284
+309,Antiguo Cuscatlán,Centro,13.675241,-89.237695
+310,Antiguo Cuscatlán,Centro,13.652006,-89.284613
+311,Antiguo Cuscatlán,Centro,13.673797,-89.246712
+312,Antiguo Cuscatlán,Centro,13.640904,-89.257809
+313,Antiguo Cuscatlán,Centro,13.696724,-89.213043
+314,Antiguo Cuscatlán,Centro,13.694959,-89.253483
+315,Antiguo Cuscatlán,Centro,13.66495,-89.216642
+316,Antiguo Cuscatlán,Centro,13.677269,-89.272075
+317,Antiguo Cuscatlán,Centro,13.621802,-89.238255
+318,Antiguo Cuscatlán,Centro,13.646873,-89.243612
+319,Antiguo Cuscatlán,Centro,13.664124,-89.267381
+320,Antiguo Cuscatlán,Centro,13.648557,-89.246452
+321,Antiguo Cuscatlán,Centro,13.684288,-89.22575
+322,Antiguo Cuscatlán,Centro,13.709946,-89.256476
+323,Antiguo Cuscatlán,Centro,13.646468,-89.283839
+324,Antiguo Cuscatlán,Centro,13.653251,-89.250351
+325,Antiguo Cuscatlán,Centro,13.674709,-89.268048
+326,Antiguo Cuscatlán,Centro,13.702222,-89.256847
+327,Antiguo Cuscatlán,Centro,13.645553,-89.251632
+328,Antiguo Cuscatlán,Centro,13.674981,-89.284113
+329,Antiguo Cuscatlán,Centro,13.706426,-89.282313
+330,Antiguo Cuscatlán,Centro,13.636965,-89.240359
+331,Antiguo Cuscatlán,Centro,13.644379,-89.260454
+332,Antiguo Cuscatlán,Centro,13.661528,-89.301295
+333,Antiguo Cuscatlán,Centro,13.659588,-89.234303
+334,Antiguo Cuscatlán,Centro,13.686252,-89.244553
+335,Antiguo Cuscatlán,Centro,13.674833,-89.264277
+336,Antiguo Cuscatlán,Centro,13.634501,-89.276337
+337,Antiguo Cuscatlán,Centro,13.680308,-89.233284
+338,Antiguo Cuscatlán,Centro,13.658449,-89.243013
+339,Mejicanos,Centro,13.787652,-89.206838
+340,Mejicanos,Centro,13.748404,-89.194445
+341,Mejicanos,Centro,13.747754,-89.19386
+342,Mejicanos,Centro,13.736661,-89.242397
+343,Mejicanos,Centro,13.756336,-89.254945
+344,Mejicanos,Centro,13.752502,-89.189965
+345,Mejicanos,Centro,13.765035,-89.186245
+346,Mejicanos,Centro,13.729574,-89.230412
+347,Mejicanos,Centro,13.731292,-89.247197
+348,Mejicanos,Centro,13.730418,-89.208019
+349,Mejicanos,Centro,13.755816,-89.191383
+350,Mejicanos,Centro,13.769967,-89.174048
+351,Mejicanos,Centro,13.730823,-89.199674
+352,Mejicanos,Centro,13.731505,-89.217434
+353,Mejicanos,Centro,13.746282,-89.227863
+354,Mejicanos,Centro,13.735085,-89.209771
+355,Mejicanos,Centro,13.759041,-89.215985
+356,Mejicanos,Centro,13.694964,-89.230301
+357,Mejicanos,Centro,13.723466,-89.169025
+358,Mejicanos,Centro,13.724352,-89.174297
+359,Mejicanos,Centro,13.693593,-89.187279
+360,Mejicanos,Centro,13.720727,-89.228417
+361,Mejicanos,Centro,13.721697,-89.1929
+362,Mejicanos,Centro,13.735978,-89.197207
+363,Mejicanos,Centro,13.762259,-89.201149
+364,Mejicanos,Centro,13.735099,-89.185007
+365,Mejicanos,Centro,13.719384,-89.197293
+366,Mejicanos,Centro,13.738861,-89.1952
+367,Mejicanos,Centro,13.760983,-89.197262
+368,Mejicanos,Centro,13.720481,-89.203184
+369,Mejicanos,Centro,13.721789,-89.245672
+370,Mejicanos,Centro,13.751171,-89.208328
+371,Mejicanos,Centro,13.735569,-89.221124
+372,Mejicanos,Centro,13.75295,-89.235597
+373,Mejicanos,Centro,13.739727,-89.176364
+374,Mejicanos,Centro,13.754033,-89.17542
+375,Mejicanos,Centro,13.719298,-89.182816
+376,Mejicanos,Centro,13.739758,-89.204896
+377,Mejicanos,Centro,13.735786,-89.182987
+378,Mejicanos,Centro,13.715682,-89.209759
+379,Mejicanos,Centro,13.70873,-89.205944
+380,Mejicanos,Centro,13.753715,-89.231869
+381,Mejicanos,Centro,13.732981,-89.20206
+382,Mejicanos,Centro,13.719554,-89.208792
+383,Mejicanos,Centro,13.738076,-89.236053
+384,Mejicanos,Centro,13.76256,-89.211024
+385,Mejicanos,Centro,13.694385,-89.211595
+386,Mejicanos,Centro,13.710067,-89.174049
+387,Mejicanos,Centro,13.721542,-89.192116
+388,Mejicanos,Centro,13.769224,-89.209771
+389,Mejicanos,Centro,13.745652,-89.205024
+390,Mejicanos,Centro,13.755346,-89.209116
+391,Mejicanos,Centro,13.717197,-89.214058
+392,Mejicanos,Centro,13.717609,-89.231649
+393,Mejicanos,Centro,13.748956,-89.213021
+394,Mejicanos,Centro,13.741165,-89.224922
+395,Mejicanos,Centro,13.750975,-89.235006
+396,Mejicanos,Centro,13.736247,-89.199776
+397,Mejicanos,Centro,13.745563,-89.202175
+398,Apopa,Centro,13.771166,-89.178779
+399,Apopa,Centro,13.804446,-89.174091
+400,Apopa,Centro,13.826814,-89.117823
+401,Apopa,Centro,13.828084,-89.164374
+402,Apopa,Centro,13.827417,-89.195545
+403,Apopa,Centro,13.807678,-89.16202
+404,Apopa,Centro,13.789999,-89.188637
+405,Apopa,Centro,13.785226,-89.191195
+406,Apopa,Centro,13.813792,-89.163228
+407,Apopa,Centro,13.814486,-89.180778
+408,Apopa,Centro,13.832647,-89.175828
+409,Apopa,Centro,13.8289,-89.18112
+410,Apopa,Centro,13.804255,-89.174668
+411,Apopa,Centro,13.782016,-89.172901
+412,Apopa,Centro,13.800518,-89.220139
+413,Apopa,Centro,13.811245,-89.168069
+414,Apopa,Centro,13.802858,-89.20104
+415,Apopa,Centro,13.795342,-89.210246
+416,Apopa,Centro,13.811958,-89.182568
+417,Apopa,Centro,13.796821,-89.17972
+418,Apopa,Centro,13.794339,-89.19527
+419,Apopa,Centro,13.813129,-89.164779
+420,Apopa,Centro,13.79886,-89.208244
+421,Apopa,Centro,13.811782,-89.189539
+422,Apopa,Centro,13.812364,-89.193097
+423,Apopa,Centro,13.784111,-89.182332
+424,Apopa,Centro,13.797275,-89.175823
+425,Apopa,Centro,13.835656,-89.201558
+426,Apopa,Centro,13.783658,-89.166914
+427,Apopa,Centro,13.764567,-89.18014
+428,Apopa,Centro,13.769663,-89.219239
+429,Apopa,Centro,13.807482,-89.220572
+430,Apopa,Centro,13.807518,-89.181646
+431,Apopa,Centro,13.804548,-89.185819
+432,Apopa,Centro,13.831184,-89.183468
+433,Apopa,Centro,13.753443,-89.18196
+434,Apopa,Centro,13.814819,-89.176889
+435,Apopa,Centro,13.838129,-89.162447
+436,Apopa,Centro,13.784344,-89.203622
+437,Apopa,Centro,13.799304,-89.204839
+438,Apopa,Centro,13.791842,-89.203266
+439,Apopa,Centro,13.789013,-89.175622
+440,Apopa,Centro,13.800375,-89.156501
+441,Apopa,Centro,13.83545,-89.190027
+442,Apopa,Centro,13.843648,-89.231434
+443,Apopa,Centro,13.800181,-89.21548
+444,Apopa,Centro,13.845001,-89.198061
+445,Apopa,Centro,13.807612,-89.192555
+446,Apopa,Centro,13.841974,-89.189568
+447,Apopa,Centro,13.805034,-89.180628
+448,Zacatecoluca,Centro,13.499565,-88.881129
+449,Zacatecoluca,Centro,13.526787,-88.873023
+450,Zacatecoluca,Centro,13.49228,-88.832057
+451,Zacatecoluca,Centro,13.488554,-88.873094
+452,Zacatecoluca,Centro,13.515378,-88.861424
+453,Zacatecoluca,Centro,13.475087,-88.874345
+454,Zacatecoluca,Centro,13.513594,-88.868186
+455,Zacatecoluca,Centro,13.507851,-88.86958
+456,Zacatecoluca,Centro,13.502851,-88.860734
+457,Zacatecoluca,Centro,13.537566,-88.846394
+458,Zacatecoluca,Centro,13.493356,-88.836752
+459,Zacatecoluca,Centro,13.547006,-88.863508
+460,Zacatecoluca,Centro,13.501291,-88.857909
+461,Zacatecoluca,Centro,13.48026,-88.892717
+462,Zacatecoluca,Centro,13.507198,-88.871458
+463,Zacatecoluca,Centro,13.484275,-88.850894
+464,Zacatecoluca,Centro,13.490765,-88.852381
+465,Zacatecoluca,Centro,13.513741,-88.865468
+466,Zacatecoluca,Centro,13.516912,-88.851972
+467,Zacatecoluca,Centro,13.493357,-88.859885
+468,Zacatecoluca,Centro,13.525548,-88.845694
+469,Zacatecoluca,Centro,13.52895,-88.863913
+470,Zacatecoluca,Centro,13.534526,-88.876814
+471,Zacatecoluca,Centro,13.516388,-88.862983
+472,Zacatecoluca,Centro,13.533069,-88.928312
+473,Zacatecoluca,Centro,13.468184,-88.862042
+474,Zacatecoluca,Centro,13.499442,-88.942668
+475,Zacatecoluca,Centro,13.48846,-88.904169
+476,Zacatecoluca,Centro,13.508185,-88.860665
+477,Cojutepeque,Centro,13.726251,-88.911206
+478,Cojutepeque,Centro,13.693451,-88.941547
+479,Cojutepeque,Centro,13.702458,-88.961637
+480,Cojutepeque,Centro,13.744111,-88.924424
+481,Cojutepeque,Centro,13.707019,-88.924033
+482,Cojutepeque,Centro,13.761558,-88.963914
+483,Cojutepeque,Centro,13.716662,-88.92871
+484,Cojutepeque,Centro,13.724861,-88.918588
+485,Cojutepeque,Centro,13.749037,-88.925812
+486,Cojutepeque,Centro,13.719321,-88.92066
+487,Cojutepeque,Centro,13.696653,-88.961385
+488,Cojutepeque,Centro,13.714505,-88.926679
+489,Cojutepeque,Centro,13.715988,-88.939352
+490,Cojutepeque,Centro,13.689405,-88.942956
+491,Cojutepeque,Centro,13.711583,-88.915889
+492,Cojutepeque,Centro,13.701856,-88.903715
+493,Cojutepeque,Centro,13.735187,-88.897413
+494,Cojutepeque,Centro,13.717392,-88.907004
+495,Cojutepeque,Centro,13.711044,-88.935495
+496,Cojutepeque,Centro,13.714576,-88.926246
+497,Cojutepeque,Centro,13.721162,-88.917964
+498,Cojutepeque,Centro,13.729036,-88.930876
+499,Cojutepeque,Centro,13.696706,-88.930685
+500,Cojutepeque,Centro,13.695868,-88.916825
+501,San Vicente,Centro,13.640214,-88.775403
+502,San Vicente,Centro,13.626814,-88.771277
+503,San Vicente,Centro,13.633111,-88.825759
+504,San Vicente,Centro,13.654078,-88.790889
+505,San Vicente,Centro,13.64146,-88.827204
+506,San Vicente,Centro,13.648204,-88.782879
+507,San Vicente,Centro,13.654802,-88.783693
+508,San Vicente,Centro,13.633903,-88.762689
+509,San Vicente,Centro,13.656525,-88.759847
+510,San Vicente,Centro,13.648977,-88.779544
+511,San Vicente,Centro,13.616704,-88.793607
+512,San Vicente,Centro,13.670246,-88.773897
+513,San Vicente,Centro,13.631385,-88.794158
+514,San Vicente,Centro,13.608298,-88.783628
+515,San Vicente,Centro,13.620499,-88.763877
+516,San Vicente,Centro,13.620979,-88.794755
+517,San Vicente,Centro,13.642443,-88.767486
+518,San Vicente,Centro,13.635923,-88.770052
+519,San Vicente,Centro,13.634663,-88.802696
+520,San Vicente,Centro,13.653794,-88.764122
+521,San Vicente,Centro,13.648198,-88.769629
+522,San Vicente,Centro,13.647721,-88.781561
+523,Chalatenango,Centro,14.018054,-88.904219
+524,Chalatenango,Centro,14.016116,-88.942429
+525,Chalatenango,Centro,14.022547,-88.910655
+526,Chalatenango,Centro,14.044152,-88.946187
+527,Chalatenango,Centro,14.014187,-88.934505
+528,Chalatenango,Centro,14.04205,-88.954739
+529,Chalatenango,Centro,14.008465,-88.9242
+530,Chalatenango,Centro,14.029219,-88.904397
+531,Chalatenango,Centro,14.035493,-88.934847
+532,Chalatenango,Centro,14.082203,-88.937238
+533,Chalatenango,Centro,14.005754,-88.955592
+534,Chalatenango,Centro,14.06274,-88.937886
+535,Chalatenango,Centro,14.036297,-88.965156
+536,Chalatenango,Centro,14.041523,-88.951558
+537,Chalatenango,Centro,14.035667,-88.928764
+538,Chalatenango,Centro,14.042195,-88.90692
+539,Chalatenango,Centro,14.030226,-88.877116
+540,Sensuntepeque,Centro,13.854968,-88.629693
+541,Sensuntepeque,Centro,13.895406,-88.646421
+542,Sensuntepeque,Centro,13.871575,-88.608774
+543,Sensuntepeque,Centro,13.863675,-88.601716
+544,Sensuntepeque,Centro,13.875352,-88.623409
+545,Sensuntepeque,Centro,13.867938,-88.613827
+546,Sensuntepeque,Centro,13.868908,-88.608461
+547,Sensuntepeque,Centro,13.858533,-88.610698
+548,Sensuntepeque,Centro,13.838738,-88.621018
+549,Sensuntepeque,Centro,13.835827,-88.621333
+550,Sensuntepeque,Centro,13.879765,-88.622907
+551,Sensuntepeque,Centro,13.861166,-88.655247
+552,Sensuntepeque,Centro,13.854778,-88.619286
+553,Sensuntepeque,Centro,13.86687,-88.660416
+554,Sensuntepeque,Centro,13.882599,-88.649192
+555,Santa Ana,Occidente,14.020271,-89.574939
+556,Santa Ana,Occidente,14.011004,-89.556727
+557,Santa Ana,Occidente,14.023948,-89.552376
+558,Santa Ana,Occidente,13.988767,-89.551351
+559,Santa Ana,Occidente,13.971155,-89.58611
+560,Santa Ana,Occidente,13.989391,-89.542606
+561,Santa Ana,Occidente,13.996241,-89.575704
+562,Santa Ana,Occidente,13.99578,-89.547043
+563,Santa Ana,Occidente,14.016874,-89.559913
+564,Santa Ana,Occidente,13.986975,-89.587228
+565,Santa Ana,Occidente,14.001241,-89.566024
+566,Santa Ana,Occidente,13.974427,-89.552393
+567,Santa Ana,Occidente,14.003206,-89.547441
+568,Santa Ana,Occidente,13.994262,-89.56252
+569,Santa Ana,Occidente,13.979204,-89.529064
+570,Santa Ana,Occidente,13.989483,-89.53955
+571,Santa Ana,Occidente,13.990516,-89.564833
+572,Santa Ana,Occidente,13.988797,-89.544698
+573,Santa Ana,Occidente,14.029627,-89.521024
+574,Santa Ana,Occidente,13.992231,-89.52049
+575,Santa Ana,Occidente,13.989322,-89.58426
+576,Santa Ana,Occidente,13.952251,-89.578231
+577,Santa Ana,Occidente,13.976316,-89.530002
+578,Santa Ana,Occidente,13.988939,-89.580866
+579,Santa Ana,Occidente,13.980483,-89.586151
+580,Santa Ana,Occidente,14.021834,-89.569424
+581,Santa Ana,Occidente,13.990901,-89.551295
+582,Santa Ana,Occidente,14.019969,-89.561748
+583,Santa Ana,Occidente,13.995434,-89.572711
+584,Santa Ana,Occidente,13.994945,-89.573184
+585,Santa Ana,Occidente,13.992424,-89.573947
+586,Santa Ana,Occidente,13.994276,-89.57729
+587,Santa Ana,Occidente,14.028576,-89.514067
+588,Santa Ana,Occidente,13.947808,-89.55375
+589,Santa Ana,Occidente,13.954169,-89.541965
+590,Santa Ana,Occidente,13.983337,-89.569482
+591,Santa Ana,Occidente,13.994491,-89.563419
+592,Santa Ana,Occidente,14.008002,-89.573971
+593,Santa Ana,Occidente,14.003662,-89.612734
+594,Santa Ana,Occidente,13.986515,-89.58726
+595,Santa Ana,Occidente,14.014581,-89.595912
+596,Santa Ana,Occidente,14.014804,-89.604696
+597,Santa Ana,Occidente,13.997881,-89.583607
+598,Santa Ana,Occidente,14.013453,-89.533201
+599,Santa Ana,Occidente,13.999653,-89.560589
+600,Santa Ana,Occidente,13.98297,-89.533889
+601,Santa Ana,Occidente,14.008156,-89.55148
+602,Santa Ana,Occidente,13.996412,-89.544049
+603,Santa Ana,Occidente,13.994227,-89.577718
+604,Santa Ana,Occidente,14.023659,-89.549221
+605,Santa Ana,Occidente,13.945183,-89.545126
+606,Santa Ana,Occidente,13.965846,-89.571233
+607,Santa Ana,Occidente,13.970459,-89.548509
+608,Santa Ana,Occidente,13.986935,-89.548376
+609,Santa Ana,Occidente,13.989108,-89.570691
+610,Santa Ana,Occidente,13.964053,-89.582155
+611,Santa Ana,Occidente,13.974497,-89.583383
+612,Santa Ana,Occidente,13.976983,-89.55797
+613,Santa Ana,Occidente,14.043348,-89.55316
+614,Santa Ana,Occidente,14.030235,-89.575551
+615,Santa Ana,Occidente,13.985965,-89.559168
+616,Santa Ana,Occidente,13.986928,-89.548289
+617,Santa Ana,Occidente,13.971216,-89.547336
+618,Santa Ana,Occidente,13.956037,-89.528662
+619,Santa Ana,Occidente,13.991862,-89.53416
+620,Santa Ana,Occidente,13.974243,-89.579726
+621,Santa Ana,Occidente,13.992503,-89.526028
+622,Santa Ana,Occidente,13.962196,-89.57032
+623,Sonsonate,Occidente,13.739797,-89.707716
+624,Sonsonate,Occidente,13.72026,-89.720806
+625,Sonsonate,Occidente,13.710657,-89.732981
+626,Sonsonate,Occidente,13.682746,-89.732091
+627,Sonsonate,Occidente,13.715469,-89.766784
+628,Sonsonate,Occidente,13.687712,-89.719047
+629,Sonsonate,Occidente,13.738246,-89.70729
+630,Sonsonate,Occidente,13.749236,-89.755712
+631,Sonsonate,Occidente,13.702962,-89.737428
+632,Sonsonate,Occidente,13.724939,-89.747349
+633,Sonsonate,Occidente,13.704392,-89.743507
+634,Sonsonate,Occidente,13.70633,-89.72313
+635,Sonsonate,Occidente,13.73439,-89.765888
+636,Sonsonate,Occidente,13.718129,-89.711915
+637,Sonsonate,Occidente,13.753693,-89.709123
+638,Sonsonate,Occidente,13.709255,-89.729222
+639,Sonsonate,Occidente,13.738887,-89.773814
+640,Sonsonate,Occidente,13.720848,-89.744128
+641,Sonsonate,Occidente,13.734816,-89.699542
+642,Sonsonate,Occidente,13.709957,-89.77976
+643,Sonsonate,Occidente,13.717909,-89.73115
+644,Sonsonate,Occidente,13.71659,-89.7478
+645,Sonsonate,Occidente,13.702179,-89.708109
+646,Sonsonate,Occidente,13.732142,-89.737702
+647,Sonsonate,Occidente,13.731905,-89.716121
+648,Sonsonate,Occidente,13.730771,-89.712891
+649,Sonsonate,Occidente,13.749639,-89.687475
+650,Sonsonate,Occidente,13.747887,-89.728259
+651,Sonsonate,Occidente,13.711401,-89.716679
+652,Sonsonate,Occidente,13.726361,-89.753901
+653,Sonsonate,Occidente,13.706428,-89.700392
+654,Sonsonate,Occidente,13.719367,-89.73941
+655,Sonsonate,Occidente,13.706905,-89.735415
+656,Sonsonate,Occidente,13.751301,-89.724645
+657,Sonsonate,Occidente,13.726174,-89.755458
+658,Sonsonate,Occidente,13.714539,-89.719625
+659,Sonsonate,Occidente,13.742772,-89.704851
+660,Sonsonate,Occidente,13.675488,-89.718341
+661,Sonsonate,Occidente,13.678618,-89.755978
+662,Sonsonate,Occidente,13.734817,-89.726676
+663,Sonsonate,Occidente,13.720109,-89.709359
+664,Sonsonate,Occidente,13.723909,-89.76176
+665,Sonsonate,Occidente,13.692372,-89.745695
+666,Sonsonate,Occidente,13.718435,-89.706669
+667,Sonsonate,Occidente,13.75897,-89.718798
+668,Chalchuapa,Occidente,13.991539,-89.664974
+669,Chalchuapa,Occidente,14.02049,-89.717964
+670,Chalchuapa,Occidente,13.992671,-89.66606
+671,Chalchuapa,Occidente,13.996458,-89.690894
+672,Chalchuapa,Occidente,14.037515,-89.675761
+673,Chalchuapa,Occidente,13.979024,-89.70584
+674,Chalchuapa,Occidente,13.967342,-89.656727
+675,Chalchuapa,Occidente,13.991856,-89.658387
+676,Chalchuapa,Occidente,13.99208,-89.664108
+677,Chalchuapa,Occidente,13.972766,-89.713595
+678,Chalchuapa,Occidente,13.962652,-89.666718
+679,Chalchuapa,Occidente,14.029497,-89.675203
+680,Chalchuapa,Occidente,13.989837,-89.715405
+681,Chalchuapa,Occidente,13.968654,-89.683786
+682,Chalchuapa,Occidente,14.001619,-89.676009
+683,Chalchuapa,Occidente,13.981117,-89.672178
+684,Chalchuapa,Occidente,13.978242,-89.679755
+685,Chalchuapa,Occidente,13.994545,-89.677475
+686,Chalchuapa,Occidente,13.957462,-89.653828
+687,Chalchuapa,Occidente,13.990353,-89.658779
+688,Chalchuapa,Occidente,14.021559,-89.740641
+689,Chalchuapa,Occidente,13.992624,-89.689649
+690,Chalchuapa,Occidente,13.975776,-89.686593
+691,Chalchuapa,Occidente,13.973158,-89.718342
+692,Chalchuapa,Occidente,13.975093,-89.681416
+693,Chalchuapa,Occidente,13.978221,-89.658325
+694,Chalchuapa,Occidente,13.975744,-89.705031
+695,Ahuachapán,Occidente,13.928128,-89.817642
+696,Ahuachapán,Occidente,13.903084,-89.862043
+697,Ahuachapán,Occidente,13.907962,-89.800415
+698,Ahuachapán,Occidente,13.950948,-89.82509
+699,Ahuachapán,Occidente,13.910549,-89.825577
+700,Ahuachapán,Occidente,13.930644,-89.84444
+701,Ahuachapán,Occidente,13.883976,-89.849345
+702,Ahuachapán,Occidente,13.958646,-89.849188
+703,Ahuachapán,Occidente,13.933453,-89.837189
+704,Ahuachapán,Occidente,13.91775,-89.816976
+705,Ahuachapán,Occidente,13.932911,-89.841374
+706,Ahuachapán,Occidente,13.893204,-89.863229
+707,Ahuachapán,Occidente,13.945051,-89.828511
+708,Ahuachapán,Occidente,13.91492,-89.826577
+709,Ahuachapán,Occidente,13.917319,-89.831907
+710,Ahuachapán,Occidente,13.911567,-89.83009
+711,Ahuachapán,Occidente,13.909787,-89.850419
+712,Ahuachapán,Occidente,13.935293,-89.86358
+713,Ahuachapán,Occidente,13.926518,-89.862364
+714,Ahuachapán,Occidente,13.934435,-89.877709
+715,Ahuachapán,Occidente,13.921224,-89.840261
+716,Ahuachapán,Occidente,13.931664,-89.846669
+717,Ahuachapán,Occidente,13.913023,-89.8538
+718,Ahuachapán,Occidente,13.965995,-89.904112
+719,Ahuachapán,Occidente,13.890041,-89.869946
+720,Ahuachapán,Occidente,13.946619,-89.822583
+721,San Miguel,Oriente,13.470007,-88.189603
+722,San Miguel,Oriente,13.490512,-88.221991
+723,San Miguel,Oriente,13.455486,-88.20866
+724,San Miguel,Oriente,13.512074,-88.238294
+725,San Miguel,Oriente,13.480419,-88.187983
+726,San Miguel,Oriente,13.489101,-88.187068
+727,San Miguel,Oriente,13.529816,-88.191789
+728,San Miguel,Oriente,13.513629,-88.161722
+729,San Miguel,Oriente,13.477169,-88.15933
+730,San Miguel,Oriente,13.471436,-88.186708
+731,San Miguel,Oriente,13.476789,-88.225994
+732,San Miguel,Oriente,13.493498,-88.170954
+733,San Miguel,Oriente,13.481196,-88.172193
+734,San Miguel,Oriente,13.475395,-88.177112
+735,San Miguel,Oriente,13.512644,-88.16367
+736,San Miguel,Oriente,13.481016,-88.206597
+737,San Miguel,Oriente,13.529292,-88.143125
+738,San Miguel,Oriente,13.485115,-88.202489
+739,San Miguel,Oriente,13.519006,-88.168316
+740,San Miguel,Oriente,13.490446,-88.217047
+741,San Miguel,Oriente,13.502559,-88.201905
+742,San Miguel,Oriente,13.468808,-88.152973
+743,San Miguel,Oriente,13.466225,-88.188518
+744,San Miguel,Oriente,13.492494,-88.166502
+745,San Miguel,Oriente,13.503071,-88.178561
+746,San Miguel,Oriente,13.484105,-88.185399
+747,San Miguel,Oriente,13.457572,-88.156023
+748,San Miguel,Oriente,13.456095,-88.188033
+749,San Miguel,Oriente,13.454757,-88.218915
+750,San Miguel,Oriente,13.447948,-88.199365
+751,San Miguel,Oriente,13.48549,-88.172276
+752,San Miguel,Oriente,13.505801,-88.17539
+753,San Miguel,Oriente,13.483032,-88.214641
+754,San Miguel,Oriente,13.438092,-88.197787
+755,San Miguel,Oriente,13.479485,-88.194934
+756,San Miguel,Oriente,13.480044,-88.190609
+757,San Miguel,Oriente,13.52522,-88.210818
+758,San Miguel,Oriente,13.454157,-88.195867
+759,San Miguel,Oriente,13.475486,-88.197872
+760,San Miguel,Oriente,13.517417,-88.167869
+761,San Miguel,Oriente,13.4923,-88.167118
+762,San Miguel,Oriente,13.494566,-88.186216
+763,San Miguel,Oriente,13.485592,-88.191141
+764,San Miguel,Oriente,13.489899,-88.180502
+765,San Miguel,Oriente,13.498852,-88.199632
+766,San Miguel,Oriente,13.46711,-88.206237
+767,San Miguel,Oriente,13.500861,-88.202104
+768,San Miguel,Oriente,13.45584,-88.195996
+769,San Miguel,Oriente,13.489867,-88.206569
+770,San Miguel,Oriente,13.486875,-88.180059
+771,San Miguel,Oriente,13.470974,-88.168706
+772,San Miguel,Oriente,13.482846,-88.215042
+773,San Miguel,Oriente,13.470849,-88.182797
+774,San Miguel,Oriente,13.461866,-88.187699
+775,San Miguel,Oriente,13.476228,-88.17647
+776,San Miguel,Oriente,13.46122,-88.183559
+777,San Miguel,Oriente,13.489756,-88.212372
+778,San Miguel,Oriente,13.460298,-88.208548
+779,San Miguel,Oriente,13.49754,-88.182712
+780,San Miguel,Oriente,13.45967,-88.162724
+781,San Miguel,Oriente,13.471974,-88.227584
+782,San Miguel,Oriente,13.470808,-88.176385
+783,San Miguel,Oriente,13.509803,-88.159508
+784,San Miguel,Oriente,13.489906,-88.186361
+785,San Miguel,Oriente,13.479065,-88.172296
+786,San Miguel,Oriente,13.493274,-88.197361
+787,San Miguel,Oriente,13.441156,-88.185687
+788,San Miguel,Oriente,13.482437,-88.215718
+789,San Miguel,Oriente,13.52325,-88.230187
+790,San Miguel,Oriente,13.485947,-88.164445
+791,San Miguel,Oriente,13.484658,-88.203
+792,San Miguel,Oriente,13.494263,-88.192411
+793,San Miguel,Oriente,13.501212,-88.211029
+794,San Miguel,Oriente,13.443351,-88.211499
+795,San Miguel,Oriente,13.449653,-88.186777
+796,San Miguel,Oriente,13.487506,-88.197892
+797,San Miguel,Oriente,13.469002,-88.175741
+798,San Miguel,Oriente,13.509541,-88.174249
+799,Usulután,Oriente,13.356417,-88.447081
+800,Usulután,Oriente,13.354772,-88.450341
+801,Usulután,Oriente,13.381555,-88.444339
+802,Usulután,Oriente,13.328648,-88.42831
+803,Usulután,Oriente,13.348901,-88.485304
+804,Usulután,Oriente,13.372654,-88.430524
+805,Usulután,Oriente,13.375291,-88.449834
+806,Usulután,Oriente,13.321565,-88.454076
+807,Usulután,Oriente,13.343753,-88.479422
+808,Usulután,Oriente,13.377162,-88.439939
+809,Usulután,Oriente,13.360162,-88.498282
+810,Usulután,Oriente,13.353905,-88.437032
+811,Usulután,Oriente,13.345646,-88.479842
+812,Usulután,Oriente,13.342324,-88.448931
+813,Usulután,Oriente,13.355764,-88.452383
+814,Usulután,Oriente,13.344953,-88.426609
+815,Usulután,Oriente,13.349148,-88.453573
+816,Usulután,Oriente,13.351572,-88.463883
+817,Usulután,Oriente,13.336439,-88.460132
+818,Usulután,Oriente,13.360643,-88.424542
+819,Usulután,Oriente,13.408285,-88.439274
+820,Usulután,Oriente,13.31446,-88.457713
+821,Usulután,Oriente,13.35648,-88.454729
+822,Usulután,Oriente,13.334796,-88.481344
+823,Usulután,Oriente,13.361548,-88.442231
+824,Usulután,Oriente,13.350931,-88.485196
+825,Usulután,Oriente,13.365237,-88.434964
+826,Usulután,Oriente,13.37351,-88.447428
+827,Usulután,Oriente,13.353848,-88.402261
+828,Usulután,Oriente,13.372641,-88.472003
+829,Usulután,Oriente,13.303114,-88.452053
+830,Usulután,Oriente,13.381809,-88.414034
+831,Usulután,Oriente,13.357501,-88.426172
+832,Usulután,Oriente,13.371557,-88.463924
+833,Usulután,Oriente,13.325602,-88.445521
+834,Usulután,Oriente,13.333385,-88.44996
+835,La Unión,Oriente,13.342539,-87.839827
+836,La Unión,Oriente,13.322926,-87.866459
+837,La Unión,Oriente,13.335114,-87.853768
+838,La Unión,Oriente,13.304939,-87.841072
+839,La Unión,Oriente,13.339602,-87.890407
+840,La Unión,Oriente,13.3459,-87.839163
+841,La Unión,Oriente,13.332352,-87.805842
+842,La Unión,Oriente,13.304599,-87.852969
+843,La Unión,Oriente,13.356671,-87.838704
+844,La Unión,Oriente,13.344191,-87.823402
+845,La Unión,Oriente,13.32238,-87.847179
+846,La Unión,Oriente,13.331288,-87.855519
+847,La Unión,Oriente,13.306887,-87.889415
+848,La Unión,Oriente,13.316392,-87.83108
+849,La Unión,Oriente,13.326144,-87.846163
+850,La Unión,Oriente,13.361468,-87.864154
+851,La Unión,Oriente,13.32411,-87.841368
+852,La Unión,Oriente,13.349704,-87.855574
+853,La Unión,Oriente,13.326134,-87.854469
+854,La Unión,Oriente,13.341859,-87.831774
+855,La Unión,Oriente,13.334072,-87.870668
+856,La Unión,Oriente,13.354361,-87.822954
+857,La Unión,Oriente,13.326204,-87.871854
+858,La Unión,Oriente,13.305449,-87.857154
+859,La Unión,Oriente,13.309261,-87.805441
+860,La Unión,Oriente,13.326262,-87.821353
+861,La Unión,Oriente,13.311919,-87.841948
+862,La Unión,Oriente,13.345104,-87.862711
+863,La Unión,Oriente,13.327585,-87.854485
+864,La Unión,Oriente,13.384392,-87.842434
+865,La Unión,Oriente,13.302146,-87.84315
+866,Santa Rosa de Lima,Oriente,13.622583,-87.874343
+867,Santa Rosa de Lima,Oriente,13.623783,-87.90769
+868,Santa Rosa de Lima,Oriente,13.620112,-87.904579
+869,Santa Rosa de Lima,Oriente,13.59556,-87.905327
+870,Santa Rosa de Lima,Oriente,13.61407,-87.903513
+871,Santa Rosa de Lima,Oriente,13.642692,-87.870216
+872,Santa Rosa de Lima,Oriente,13.597033,-87.879624
+873,Santa Rosa de Lima,Oriente,13.620609,-87.858001
+874,Santa Rosa de Lima,Oriente,13.608005,-87.846847
+875,Santa Rosa de Lima,Oriente,13.626627,-87.912814
+876,Santa Rosa de Lima,Oriente,13.616627,-87.890792
+877,Santa Rosa de Lima,Oriente,13.653948,-87.915724
+878,Santa Rosa de Lima,Oriente,13.634532,-87.907752
+879,Santa Rosa de Lima,Oriente,13.598164,-87.904802
+880,Santa Rosa de Lima,Oriente,13.637825,-87.913343
+881,Santa Rosa de Lima,Oriente,13.608907,-87.913238
+882,Santa Rosa de Lima,Oriente,13.61286,-87.895086
+883,Santa Rosa de Lima,Oriente,13.630676,-87.916534
+884,Santa Rosa de Lima,Oriente,13.614565,-87.875357
+885,San Francisco Gotera,Oriente,13.680545,-88.086845
+886,San Francisco Gotera,Oriente,13.755091,-88.076342
+887,San Francisco Gotera,Oriente,13.689872,-88.078417
+888,San Francisco Gotera,Oriente,13.70034,-88.13244
+889,San Francisco Gotera,Oriente,13.672993,-88.094569
+890,San Francisco Gotera,Oriente,13.733022,-88.08029
+891,San Francisco Gotera,Oriente,13.72129,-88.133767
+892,San Francisco Gotera,Oriente,13.704838,-88.100758
+893,San Francisco Gotera,Oriente,13.671964,-88.095123
+894,San Francisco Gotera,Oriente,13.703113,-88.106615
+895,San Francisco Gotera,Oriente,13.676471,-88.137643
+896,San Francisco Gotera,Oriente,13.728147,-88.107114
+897,San Francisco Gotera,Oriente,13.715084,-88.107146
+898,San Francisco Gotera,Oriente,13.700809,-88.103561
+899,San Francisco Gotera,Oriente,13.650172,-88.111869
+900,San Francisco Gotera,Oriente,13.679232,-88.10946
